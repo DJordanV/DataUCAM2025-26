@@ -1,0 +1,237 @@
+#;Jugador;TCA;TCI;T3A;T3I;TLA;TLI;RO;RD;REB;ASI;PER;ROB;TAP;TAPR;FP;FPR;PTS;+/-;VAL;Jornada;Adversario;Local;Vuelta;SEG
+00;Devontae Cacok;3;6;0;0;2;2;3;5;8;1;1;2;0;0;3;2;8;8,0;14;1;MoraBanc Andorra;Local;1ª Vuelta;1001
+00;Devontae Cacok;3;6;0;0;5;6;3;4;7;0;1;0;0;0;4;7;11;25,0;16;2;Basquet Girona;Visitante;1ª Vuelta;1303
+00;Devontae Cacok;3;3;0;0;4;4;1;2;3;1;3;1;0;0;3;2;10;-1,0;11;3;La Laguna Tenerife;Visitante;1ª Vuelta;1246
+00;Devontae Cacok;2;2;0;0;0;0;0;0;0;1;2;0;0;0;4;1;4;-9,0;0;4;Baskonia;Local;1ª Vuelta;815
+00;Devontae Cacok;9;10;0;0;2;3;2;4;6;0;4;1;0;1;5;5;20;3,0;21;5;FC Barcelona;Visitante;1ª Vuelta;1282
+00;Devontae Cacok;2;4;0;0;1;2;2;2;4;0;1;0;0;0;2;4;5;-5,0;7;6;BAXI Manresa;Local;1ª Vuelta;656
+00;Devontae Cacok;1;3;0;0;0;0;3;0;3;0;1;1;0;1;2;4;2;-6,0;5;7;Río Breogán;Local;1ª Vuelta;772
+00;Devontae Cacok;3;4;0;0;1;4;1;2;3;2;1;0;1;0;3;3;7;19,0;8;8;Hiopos Lleida;Visitante;1ª Vuelta;741
+00;Devontae Cacok;9;11;0;0;1;4;2;6;8;3;1;1;0;0;3;3;19;29,0;25;9;Recoletas Salud San Pablo Burgos;Visitante;1ª Vuelta;1286
+00;Devontae Cacok;3;6;0;0;3;5;0;3;3;0;2;2;1;0;4;4;9;8,0;8;11;Valencia Basket;Local;1ª Vuelta;1267
+00;Devontae Cacok;5;6;0;0;3;3;2;3;5;2;0;1;0;0;4;5;13;3,0;21;12;Covirán Granada;Visitante;1ª Vuelta;828
+00;Devontae Cacok;5;5;0;0;2;2;1;4;5;1;1;0;0;0;4;4;12;-2,0;17;13;Real Madrid;Local;1ª Vuelta;1065
+00;Devontae Cacok;3;3;0;0;2;2;1;1;2;1;2;0;0;0;5;3;8;-9,0;7;14;Dreamland Gran Canaria;Visitante;1ª Vuelta;824
+00;Devontae Cacok;5;10;0;0;6;8;4;5;9;0;1;0;1;0;4;6;16;-14,0;20;15;Surne Bilbao Basket;Visitante;1ª Vuelta;1197
+00;Devontae Cacok;6;9;0;0;3;6;0;6;6;2;4;1;0;0;4;5;15;8,0;15;16;Basket Zaragoza;Local;1ª Vuelta;1177
+00;Devontae Cacok;2;4;0;0;1;4;0;2;2;0;0;1;0;0;3;5;5;-4,0;5;17;Unicaja Málaga;Visitante;1ª Vuelta;1014
+00;Devontae Cacok;2;4;0;0;1;4;0;2;2;0;0;1;0;0;3;5;5;-4,0;5;18;FC Barcelona;Local;2ª Vuelta;1014
+00;Devontae Cacok;9;13;0;0;6;6;3;2;5;3;1;3;0;0;3;4;24;16,0;31;19;Río Breogán;Visitante;2ª Vuelta;1161
+00;Devontae Cacok;8;12;0;0;5;8;4;4;8;1;2;0;0;0;2;8;21;10,0;27;20;Recoletas Salud San Pablo Burgos;Local;2ª Vuelta;1274
+00;Devontae Cacok;4;7;0;0;1;2;3;7;10;0;1;2;0;1;5;3;9;-6,0;14;21;Valencia Basket;Visitante;2ª Vuelta;1088
+01;Michael Forrest;4;9;3;7;0;0;1;3;4;6;4;0;0;1;1;2;11;10,0;13;1;MoraBanc Andorra;Local;1ª Vuelta;1189
+01;Michael Forrest;4;11;3;9;5;5;0;3;3;1;2;0;0;0;2;4;16;11,0;13;2;Basquet Girona;Visitante;1ª Vuelta;1180
+01;Michael Forrest;1;7;1;6;2;2;0;1;1;0;2;1;0;0;3;2;5;-14,0;-2;3;La Laguna Tenerife;Visitante;1ª Vuelta;977
+01;Michael Forrest;3;10;2;4;3;4;0;2;2;2;1;1;0;0;1;3;11;-3,0;9;4;Baskonia;Local;1ª Vuelta;944
+01;Michael Forrest;4;11;1;4;10;13;0;1;1;3;3;0;0;0;2;5;19;8,0;13;5;FC Barcelona;Visitante;1ª Vuelta;1147
+01;Michael Forrest;1;10;0;4;2;2;1;0;1;1;0;1;0;1;1;3;4;10,0;0;6;BAXI Manresa;Local;1ª Vuelta;969
+01;Michael Forrest;4;7;1;3;1;3;2;0;2;0;1;0;0;0;0;1;10;-6,0;7;7;Río Breogán;Local;1ª Vuelta;651
+01;Michael Forrest;5;9;3;6;3;4;2;0;2;1;3;0;0;1;3;3;16;21,0;11;8;Hiopos Lleida;Visitante;1ª Vuelta;1120
+01;Michael Forrest;5;8;3;5;4;5;0;3;3;6;1;0;0;0;2;3;17;16,0;22;9;Recoletas Salud San Pablo Burgos;Visitante;1ª Vuelta;1179
+01;Michael Forrest;2;6;1;4;0;0;0;1;1;1;2;0;0;0;2;1;5;2,0;0;10;Joventut Badalona;Local;1ª Vuelta;805
+01;Michael Forrest;12;19;2;7;4;4;1;1;2;3;5;0;0;0;0;2;30;24,0;25;11;Valencia Basket;Local;1ª Vuelta;1471
+01;Michael Forrest;2;11;1;7;6;8;0;0;0;2;1;1;0;2;4;5;11;-3,0;3;12;Covirán Granada;Visitante;1ª Vuelta;911
+01;Michael Forrest;5;13;3;7;0;0;0;2;2;3;2;1;0;3;1;1;13;-5,0;9;13;Real Madrid;Local;1ª Vuelta;1230
+01;Michael Forrest;7;15;4;10;2;2;0;1;1;0;2;0;0;0;0;2;20;1,0;13;14;Dreamland Gran Canaria;Visitante;1ª Vuelta;1205
+01;Michael Forrest;4;5;2;3;0;0;0;3;3;1;3;0;0;0;1;1;10;-16,0;10;15;Surne Bilbao Basket;Visitante;1ª Vuelta;890
+01;Michael Forrest;4;9;3;6;1;2;0;2;2;1;1;0;0;1;1;1;12;11,0;8;16;Basket Zaragoza;Local;1ª Vuelta;958
+01;Michael Forrest;0;5;0;3;2;2;0;0;0;1;3;0;0;1;2;1;2;-5,0;-6;17;Unicaja Málaga;Visitante;1ª Vuelta;584
+01;Michael Forrest;0;5;0;3;2;2;0;0;0;1;3;0;0;1;2;1;2;-5,0;-6;18;FC Barcelona;Local;2ª Vuelta;584
+01;Michael Forrest;5;10;2;6;2;4;1;0;1;3;0;0;0;1;2;2;14;4,0;11;19;Río Breogán;Visitante;2ª Vuelta;1003
+01;Michael Forrest;5;12;4;8;0;2;0;0;0;4;3;1;0;0;2;3;14;13,0;8;20;Recoletas Salud San Pablo Burgos;Local;2ª Vuelta;1348
+01;Michael Forrest;2;11;2;9;0;0;1;0;1;2;0;0;0;1;5;4;6;-2,0;-1;21;Valencia Basket;Visitante;2ª Vuelta;1120
+02;Sander Raieste;7;10;2;4;1;2;2;5;7;2;1;1;0;0;3;1;17;14,0;20;1;MoraBanc Andorra;Local;1ª Vuelta;1369
+02;Sander Raieste;3;5;1;3;2;2;1;3;4;0;1;0;0;0;3;2;9;23,0;9;2;Basquet Girona;Visitante;1ª Vuelta;1364
+02;Sander Raieste;2;8;0;3;1;2;0;4;4;0;1;0;0;0;3;1;5;4,0;-1;3;La Laguna Tenerife;Visitante;1ª Vuelta;1556
+02;Sander Raieste;2;4;1;2;0;0;1;6;7;3;3;2;4;1;3;0;5;10,0;13;4;Baskonia;Local;1ª Vuelta;1445
+02;Sander Raieste;4;5;3;4;0;0;1;8;9;0;1;0;0;0;3;2;11;6,0;17;5;FC Barcelona;Visitante;1ª Vuelta;1329
+02;Sander Raieste;5;9;1;3;2;2;1;6;7;2;1;1;0;0;4;1;13;21,0;15;6;BAXI Manresa;Local;1ª Vuelta;1336
+02;Sander Raieste;1;3;1;2;4;4;1;4;5;0;1;1;0;0;4;2;7;-12,0;8;7;Río Breogán;Local;1ª Vuelta;1200
+02;Sander Raieste;0;4;0;2;2;2;1;8;9;3;0;2;1;0;4;2;2;21,0;11;8;Hiopos Lleida;Visitante;1ª Vuelta;1077
+02;Sander Raieste;2;4;2;3;6;10;3;6;9;2;1;0;0;0;4;5;12;21,0;17;9;Recoletas Salud San Pablo Burgos;Visitante;1ª Vuelta;1239
+02;Sander Raieste;1;2;0;1;0;0;0;6;6;0;2;0;0;0;5;0;2;1,0;0;10;Joventut Badalona;Local;1ª Vuelta;1129
+02;Sander Raieste;2;7;1;2;2;4;4;3;7;1;2;0;0;1;4;2;7;-2,0;4;11;Valencia Basket;Local;1ª Vuelta;1378
+02;Sander Raieste;3;4;2;3;0;0;1;4;5;2;1;3;0;0;4;2;8;-1,0;14;12;Covirán Granada;Visitante;1ª Vuelta;1387
+02;Sander Raieste;1;4;0;1;1;2;2;4;6;2;1;1;0;0;3;2;3;-10,0;6;13;Real Madrid;Local;1ª Vuelta;1503
+02;Sander Raieste;0;1;0;0;1;2;0;4;4;1;1;0;0;0;5;1;1;-2,0;-1;14;Dreamland Gran Canaria;Visitante;1ª Vuelta;1005
+02;Sander Raieste;1;5;0;3;0;0;3;4;7;1;0;0;0;0;5;1;2;-19,0;2;15;Surne Bilbao Basket;Visitante;1ª Vuelta;1298
+02;Sander Raieste;2;4;1;2;0;0;3;2;5;1;0;3;1;0;1;0;5;-3,0;12;16;Basket Zaragoza;Local;1ª Vuelta;1278
+02;Sander Raieste;2;4;1;3;1;2;1;7;8;1;0;2;1;0;2;1;6;3,0;14;17;Unicaja Málaga;Visitante;1ª Vuelta;1467
+02;Sander Raieste;2;4;1;3;1;2;1;7;8;1;0;2;1;0;2;1;6;3,0;14;18;FC Barcelona;Local;2ª Vuelta;1467
+02;Sander Raieste;4;7;0;2;3;3;1;4;5;1;1;1;1;1;3;4;11;-5,0;16;19;Río Breogán;Visitante;2ª Vuelta;1327
+02;Sander Raieste;1;5;0;3;1;1;1;4;5;1;0;0;1;0;4;1;3;0,0;3;20;Recoletas Salud San Pablo Burgos;Local;2ª Vuelta;1263
+02;Sander Raieste;2;5;1;4;0;0;2;1;3;0;0;2;2;0;5;0;5;-7,0;4;21;Valencia Basket;Visitante;2ª Vuelta;837
+05;David DeJulius;2;6;2;4;0;0;0;2;2;5;1;0;0;0;3;0;6;21,0;5;1;MoraBanc Andorra;Local;1ª Vuelta;1211
+05;David DeJulius;5;13;1;5;0;0;1;2;3;3;0;1;0;0;1;0;11;7,0;9;2;Basquet Girona;Visitante;1ª Vuelta;1208
+05;David DeJulius;11;16;2;4;2;3;1;1;2;1;1;1;0;0;0;4;26;-6,0;27;3;La Laguna Tenerife;Visitante;1ª Vuelta;1636
+05;David DeJulius;10;16;2;6;3;4;1;3;4;4;1;0;0;0;1;6;25;11,0;30;4;Baskonia;Local;1ª Vuelta;1414
+05;David DeJulius;3;11;0;4;0;0;1;0;1;7;1;1;0;0;2;0;6;-1,0;4;5;FC Barcelona;Visitante;1ª Vuelta;1198
+05;David DeJulius;8;11;3;4;3;4;0;1;1;4;2;2;0;0;2;4;22;10,0;25;6;BAXI Manresa;Local;1ª Vuelta;1543
+05;David DeJulius;6;17;3;7;0;2;0;1;1;3;1;2;0;0;1;2;15;-7,0;8;7;Río Breogán;Local;1ª Vuelta;1749
+05;David DeJulius;5;9;5;7;0;0;0;1;1;6;2;0;0;0;1;1;15;15,0;16;8;Hiopos Lleida;Visitante;1ª Vuelta;1280
+05;David DeJulius;6;13;2;6;1;2;0;1;1;3;4;0;0;0;2;3;15;14,0;8;9;Recoletas Salud San Pablo Burgos;Visitante;1ª Vuelta;1564
+05;David DeJulius;4;13;3;5;0;0;0;2;2;2;0;0;0;1;1;1;11;5,0;6;10;Joventut Badalona;Local;1ª Vuelta;1678
+05;David DeJulius;3;11;1;6;0;0;0;2;2;0;1;0;0;0;0;1;7;-12,0;1;11;Valencia Basket;Local;1ª Vuelta;929
+05;David DeJulius;9;19;3;9;2;3;1;0;1;1;3;1;0;2;1;2;23;9,0;13;12;Covirán Granada;Visitante;1ª Vuelta;1451
+05;David DeJulius;2;12;2;8;1;2;0;2;2;2;1;1;0;0;1;1;7;-6,0;0;13;Real Madrid;Local;1ª Vuelta;1170
+05;David DeJulius;3;12;1;7;1;2;0;0;0;2;0;1;0;0;3;3;8;-2,0;1;14;Dreamland Gran Canaria;Visitante;1ª Vuelta;1428
+05;David DeJulius;8;20;1;5;8;9;0;2;2;1;3;0;0;1;1;5;25;2,0;16;15;Surne Bilbao Basket;Visitante;1ª Vuelta;1510
+05;David DeJulius;4;9;2;5;6;8;0;0;0;3;2;1;0;0;1;5;16;0,0;15;16;Basket Zaragoza;Local;1ª Vuelta;1708
+05;David DeJulius;9;21;5;9;2;2;2;1;3;8;0;0;0;1;2;3;25;4,0;25;17;Unicaja Málaga;Visitante;1ª Vuelta;2005
+05;David DeJulius;9;21;5;9;2;2;2;1;3;8;0;0;0;1;2;3;25;4,0;25;18;FC Barcelona;Local;2ª Vuelta;2005
+05;David DeJulius;4;12;2;5;0;0;0;0;0;4;2;1;0;0;1;5;10;9,0;9;19;Río Breogán;Visitante;2ª Vuelta;1413
+05;David DeJulius;4;9;1;3;3;3;0;1;1;4;3;0;0;0;5;2;12;15,0;6;20;Recoletas Salud San Pablo Burgos;Local;2ª Vuelta;1370
+05;David DeJulius;7;15;0;4;6;7;1;1;2;4;2;3;0;1;1;5;20;-17,0;22;21;Valencia Basket;Visitante;2ª Vuelta;204
+08;Howard Sant-Roos;1;4;1;3;2;2;0;3;3;2;1;0;0;0;2;1;5;17,0;5;1;MoraBanc Andorra;Local;1ª Vuelta;891
+08;Howard Sant-Roos;1;2;1;2;3;4;1;1;2;0;2;2;0;0;3;2;6;3,0;5;2;Basquet Girona;Visitante;1ª Vuelta;842
+08;Howard Sant-Roos;4;11;0;4;5;5;0;4;4;3;1;2;0;0;3;4;13;-14,0;15;3;La Laguna Tenerife;Visitante;1ª Vuelta;1305
+08;Howard Sant-Roos;4;7;1;2;1;2;1;3;4;1;0;0;0;0;0;2;10;-9,0;13;4;Baskonia;Local;1ª Vuelta;1058
+08;Howard Sant-Roos;0;3;0;3;0;0;0;2;2;1;0;0;0;0;0;1;0;-5,0;1;5;FC Barcelona;Visitante;1ª Vuelta;1076
+08;Howard Sant-Roos;2;4;0;0;2;2;0;2;2;3;0;0;0;1;0;1;6;-3,0;10;6;BAXI Manresa;Local;1ª Vuelta;1000
+08;Howard Sant-Roos;1;3;0;1;2;3;0;1;1;1;1;0;1;0;1;2;4;-7,0;4;7;Río Breogán;Local;1ª Vuelta;732
+08;Howard Sant-Roos;1;4;0;2;0;0;0;7;7;2;2;0;0;0;0;3;2;15,0;9;8;Hiopos Lleida;Visitante;1ª Vuelta;1253
+08;Howard Sant-Roos;5;6;0;0;4;4;1;7;8;3;0;3;0;0;1;3;14;10,0;29;9;Recoletas Salud San Pablo Burgos;Visitante;1ª Vuelta;1599
+08;Howard Sant-Roos;3;5;0;0;3;4;0;4;4;2;1;2;0;0;1;5;9;3,0;17;10;Joventut Badalona;Local;1ª Vuelta;1244
+08;Howard Sant-Roos;4;5;2;2;0;0;2;4;6;1;2;1;0;1;2;2;10;15,0;15;11;Valencia Basket;Local;1ª Vuelta;1454
+08;Howard Sant-Roos;2;5;0;1;1;2;0;4;4;0;0;1;0;0;1;1;5;21,0;6;12;Covirán Granada;Visitante;1ª Vuelta;1385
+08;Howard Sant-Roos;3;6;0;1;2;3;1;2;3;5;0;1;0;0;0;3;8;0,0;16;13;Real Madrid;Local;1ª Vuelta;1438
+08;Howard Sant-Roos;3;4;0;1;2;3;1;4;5;1;1;1;0;0;0;4;8;-3,0;16;14;Dreamland Gran Canaria;Visitante;1ª Vuelta;1426
+08;Howard Sant-Roos;0;4;0;2;2;2;0;2;2;2;1;3;0;1;4;2;2;-3,0;2;15;Surne Bilbao Basket;Visitante;1ª Vuelta;934
+08;Howard Sant-Roos;4;6;0;1;3;4;0;3;3;1;1;2;1;0;2;3;11;9,0;15;16;Basket Zaragoza;Local;1ª Vuelta;1122
+08;Howard Sant-Roos;4;7;2;2;2;3;1;3;4;1;2;1;0;0;1;3;12;-4,0;14;17;Unicaja Málaga;Visitante;1ª Vuelta;1211
+08;Howard Sant-Roos;4;7;2;2;2;3;1;3;4;1;2;1;0;0;1;3;12;-4,0;14;18;FC Barcelona;Local;2ª Vuelta;1211
+08;Howard Sant-Roos;3;4;1;1;0;0;0;3;3;3;1;2;0;0;3;1;7;11,0;11;19;Río Breogán;Visitante;2ª Vuelta;1587
+08;Howard Sant-Roos;3;7;2;2;4;4;1;6;7;1;3;2;0;0;2;2;12;14,0;15;20;Recoletas Salud San Pablo Burgos;Local;2ª Vuelta;1447
+08;Howard Sant-Roos;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;-1,0;-2;21;Valencia Basket;Visitante;2ª Vuelta;596
+12;Jonah Radebaugh;3;4;2;3;3;3;1;1;2;2;2;1;0;0;1;2;11;5,0;14;1;MoraBanc Andorra;Local;1ª Vuelta;977
+12;Jonah Radebaugh;3;7;2;6;2;2;0;5;5;3;0;1;0;0;3;2;10;32,0;14;2;Basquet Girona;Visitante;1ª Vuelta;1404
+12;Jonah Radebaugh;4;8;0;2;2;3;1;1;2;0;1;3;0;1;3;2;10;-14,0;8;3;La Laguna Tenerife;Visitante;1ª Vuelta;1297
+12;Jonah Radebaugh;1;3;0;1;0;0;1;0;1;1;0;0;0;0;2;1;2;-10,0;1;4;Baskonia;Local;1ª Vuelta;748
+12;Jonah Radebaugh;0;4;0;3;0;0;1;3;4;2;0;0;0;1;1;0;0;0,0;1;5;FC Barcelona;Visitante;1ª Vuelta;820
+12;Jonah Radebaugh;3;7;1;4;3;6;0;5;5;0;1;2;0;0;1;4;10;22,0;12;6;BAXI Manresa;Local;1ª Vuelta;1523
+12;Jonah Radebaugh;0;3;0;3;1;2;0;3;3;1;1;2;0;0;4;2;1;-10,0;0;7;Río Breogán;Local;1ª Vuelta;1130
+12;Jonah Radebaugh;5;6;3;4;2;3;1;4;5;1;0;1;0;0;1;4;15;19,0;23;8;Hiopos Lleida;Visitante;1ª Vuelta;1120
+12;Jonah Radebaugh;2;4;1;3;0;0;0;0;0;0;0;2;0;0;2;2;5;-4,0;5;10;Joventut Badalona;Local;1ª Vuelta;793
+12;Jonah Radebaugh;3;4;1;2;0;0;0;0;0;2;0;1;1;0;3;0;7;7,0;7;11;Valencia Basket;Local;1ª Vuelta;888
+12;Jonah Radebaugh;1;3;0;2;0;0;0;5;5;2;2;1;0;0;4;1;2;7,0;3;12;Covirán Granada;Visitante;1ª Vuelta;1103
+12;Jonah Radebaugh;2;3;1;1;0;0;0;0;0;0;1;0;0;0;3;0;5;-8,0;0;13;Real Madrid;Local;1ª Vuelta;961
+12;Jonah Radebaugh;1;4;0;1;0;0;1;2;3;2;1;1;0;0;2;2;2;-1,0;4;14;Dreamland Gran Canaria;Visitante;1ª Vuelta;761
+12;Jonah Radebaugh;3;3;2;2;1;2;0;2;2;2;0;1;0;0;3;2;9;-7,0;12;15;Surne Bilbao Basket;Visitante;1ª Vuelta;1278
+12;Jonah Radebaugh;0;2;0;2;0;0;0;1;1;0;0;0;0;0;4;0;0;-6,0;-5;17;Unicaja Málaga;Visitante;1ª Vuelta;861
+12;Jonah Radebaugh;0;2;0;2;0;0;0;1;1;0;0;0;0;0;4;0;0;-6,0;-5;18;FC Barcelona;Local;2ª Vuelta;861
+12;Jonah Radebaugh;5;10;3;7;0;0;0;1;1;3;0;2;0;1;1;0;13;6,0;13;19;Río Breogán;Visitante;2ª Vuelta;1066
+12;Jonah Radebaugh;4;8;3;6;2;2;0;1;1;2;0;0;1;0;0;2;13;-8,0;15;21;Valencia Basket;Visitante;2ª Vuelta;54
+13;Wilhelm Falk;2;5;0;1;1;1;2;0;2;0;1;1;0;0;3;1;5;7,0;2;1;MoraBanc Andorra;Local;1ª Vuelta;1112
+13;Wilhelm Falk;1;2;0;1;0;0;3;2;5;0;0;0;0;0;2;0;2;13,0;4;2;Basquet Girona;Visitante;1ª Vuelta;594
+13;Wilhelm Falk;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2;0;0;-11,0;-3;3;La Laguna Tenerife;Visitante;1ª Vuelta;522
+13;Wilhelm Falk;0;3;0;2;0;0;1;3;4;0;1;0;0;0;1;0;0;3,0;-1;4;Baskonia;Local;1ª Vuelta;924
+13;Wilhelm Falk;0;0;0;0;2;2;1;2;3;0;1;0;0;0;0;2;2;-2,0;6;5;FC Barcelona;Visitante;1ª Vuelta;302
+13;Wilhelm Falk;2;4;0;1;0;1;0;1;1;0;0;1;1;1;5;1;4;12,0;0;6;BAXI Manresa;Local;1ª Vuelta;614
+13;Wilhelm Falk;0;0;0;0;0;0;1;0;1;0;0;0;0;0;2;0;0;5,0;-1;7;Río Breogán;Local;1ª Vuelta;355
+13;Wilhelm Falk;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0,0;0;8;Hiopos Lleida;Visitante;1ª Vuelta;70
+13;Wilhelm Falk;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2;1;0;7,0;-3;9;Recoletas Salud San Pablo Burgos;Visitante;1ª Vuelta;309
+13;Wilhelm Falk;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;-2,0;-2;10;Joventut Badalona;Local;1ª Vuelta;158
+13;Wilhelm Falk;1;7;0;1;0;0;9;5;14;0;0;0;0;1;3;1;2;23,0;8;11;Valencia Basket;Local;1ª Vuelta;1593
+13;Wilhelm Falk;1;4;0;1;0;0;3;1;4;0;0;0;1;1;2;1;2;8,0;3;12;Covirán Granada;Visitante;1ª Vuelta;889
+13;Wilhelm Falk;1;1;1;1;0;0;1;0;1;0;0;0;0;0;1;0;3;-6,0;3;13;Real Madrid;Local;1ª Vuelta;516
+13;Wilhelm Falk;0;2;0;2;0;0;2;2;4;0;1;0;0;0;1;1;0;2,0;1;14;Dreamland Gran Canaria;Visitante;1ª Vuelta;552
+13;Wilhelm Falk;1;2;0;0;1;3;2;0;2;1;0;0;0;0;4;2;3;-2,0;1;15;Surne Bilbao Basket;Visitante;1ª Vuelta;629
+13;Wilhelm Falk;1;1;0;0;2;2;2;0;2;2;0;1;0;0;5;2;4;6,0;6;16;Basket Zaragoza;Local;1ª Vuelta;533
+13;Wilhelm Falk;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0,0;-1;17;Unicaja Málaga;Visitante;1ª Vuelta;45
+13;Wilhelm Falk;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0,0;-1;18;FC Barcelona;Local;2ª Vuelta;45
+13;Wilhelm Falk;1;1;0;0;3;4;0;2;2;0;0;1;0;0;4;2;5;17,0;5;20;Recoletas Salud San Pablo Burgos;Local;2ª Vuelta;933
+13;Wilhelm Falk;0;4;0;1;0;0;0;2;2;0;0;0;0;1;2;1;0;-11,0;-3;21;Valencia Basket;Visitante;2ª Vuelta;713
+15;Emanuel Cate;1;1;0;0;0;0;1;3;4;3;1;0;0;0;2;1;2;22,0;7;1;MoraBanc Andorra;Local;1ª Vuelta;1042
+15;Emanuel Cate;1;3;0;0;2;4;3;3;6;0;0;2;0;0;1;2;4;-3,0;9;2;Basquet Girona;Visitante;1ª Vuelta;1097
+15;Emanuel Cate;3;4;0;0;0;1;4;1;5;0;0;0;0;0;3;2;6;-4,0;8;3;La Laguna Tenerife;Visitante;1ª Vuelta;876
+15;Emanuel Cate;6;9;0;0;0;2;2;4;6;0;2;1;0;1;3;2;12;15,0;11;4;Baskonia;Local;1ª Vuelta;1572
+15;Emanuel Cate;1;3;0;0;0;2;3;2;5;1;2;1;2;1;1;2;2;0,0;6;5;FC Barcelona;Visitante;1ª Vuelta;1116
+15;Emanuel Cate;6;9;0;0;0;1;6;5;11;1;2;0;0;0;3;2;12;22,0;17;6;BAXI Manresa;Local;1ª Vuelta;1633
+15;Emanuel Cate;3;5;0;0;5;6;3;2;5;0;2;1;1;1;2;6;11;-3,0;17;7;Río Breogán;Local;1ª Vuelta;1249
+15;Emanuel Cate;2;2;0;0;0;2;2;6;8;3;0;0;1;0;4;1;4;16,0;11;8;Hiopos Lleida;Visitante;1ª Vuelta;1354
+15;Emanuel Cate;1;2;0;0;1;2;2;0;2;1;1;0;1;0;3;2;3;-4,0;3;9;Recoletas Salud San Pablo Burgos;Visitante;1ª Vuelta;746
+15;Emanuel Cate;5;9;0;0;5;6;5;6;11;1;1;0;3;0;2;4;15;1,0;26;10;Joventut Badalona;Local;1ª Vuelta;1622
+15;Emanuel Cate;1;1;0;0;0;0;1;4;5;1;0;1;1;0;2;0;2;4,0;8;11;Valencia Basket;Local;1ª Vuelta;1133
+15;Emanuel Cate;5;8;0;0;1;1;3;7;10;0;1;0;0;0;2;3;11;7,0;18;12;Covirán Granada;Visitante;1ª Vuelta;1392
+15;Emanuel Cate;4;7;0;0;3;5;5;3;8;0;1;0;2;0;4;3;11;-6,0;14;13;Real Madrid;Local;1ª Vuelta;996
+15;Emanuel Cate;2;6;0;0;2;2;3;3;6;0;0;0;0;0;2;2;6;-2,0;8;14;Dreamland Gran Canaria;Visitante;1ª Vuelta;1315
+15;Emanuel Cate;4;7;0;0;2;2;2;4;6;1;0;1;0;0;1;2;10;0,0;16;15;Surne Bilbao Basket;Visitante;1ª Vuelta;1198
+15;Emanuel Cate;2;5;0;0;3;5;2;0;2;1;1;0;0;0;2;3;7;-2,0;5;16;Basket Zaragoza;Local;1ª Vuelta;1177
+15;Emanuel Cate;4;9;0;0;2;2;4;5;9;5;0;1;1;0;4;3;10;0,0;20;17;Unicaja Málaga;Visitante;1ª Vuelta;1675
+15;Emanuel Cate;4;9;0;0;2;2;4;5;9;5;0;1;1;0;4;3;10;0,0;20;18;FC Barcelona;Local;2ª Vuelta;1675
+15;Emanuel Cate;5;5;0;0;0;0;2;1;3;0;0;0;0;0;2;0;10;-5,0;11;19;Río Breogán;Visitante;2ª Vuelta;1239
+15;Emanuel Cate;0;5;0;0;0;0;2;3;5;0;2;2;1;0;3;2;0;11,0;0;20;Recoletas Salud San Pablo Burgos;Local;2ª Vuelta;1126
+15;Emanuel Cate;2;3;0;0;4;4;1;0;1;0;0;2;0;0;3;2;8;-13,0;9;21;Valencia Basket;Visitante;2ª Vuelta;768
+16;Rubén López;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0,0;0;10;Joventut Badalona;Local;1ª Vuelta;3
+20;Pablo Sevilla;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4,0;0;20;Recoletas Salud San Pablo Burgos;Local;2ª Vuelta;111
+21;Moussa Diagne;2;3;0;0;0;0;0;0;0;0;0;0;0;0;1;0;4;1,0;2;1;MoraBanc Andorra;Local;1ª Vuelta;357
+21;Moussa Diagne;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;-11,0;1;3;La Laguna Tenerife;Visitante;1ª Vuelta;278
+21;Moussa Diagne;1;1;0;0;0;0;1;1;2;0;2;1;0;0;1;0;2;1,0;2;7;Río Breogán;Local;1ª Vuelta;248
+21;Moussa Diagne;0;2;0;0;0;0;1;0;1;1;0;1;0;0;2;0;0;1,0;-1;8;Hiopos Lleida;Visitante;1ª Vuelta;305
+21;Moussa Diagne;0;0;0;0;2;2;0;1;1;0;0;0;0;0;0;1;2;-3,0;4;9;Recoletas Salud San Pablo Burgos;Visitante;1ª Vuelta;368
+21;Moussa Diagne;1;3;0;0;4;6;0;2;2;0;1;1;0;0;4;4;6;0,0;4;10;Joventut Badalona;Local;1ª Vuelta;778
+21;Moussa Diagne;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-2,0;0;12;Covirán Granada;Visitante;1ª Vuelta;139
+21;Moussa Diagne;2;2;0;0;0;0;0;0;0;0;0;0;0;0;2;0;4;-3,0;2;13;Real Madrid;Local;1ª Vuelta;339
+21;Moussa Diagne;0;1;0;0;0;0;1;0;1;1;0;0;1;0;0;0;0;6,0;2;14;Dreamland Gran Canaria;Visitante;1ª Vuelta;230
+21;Moussa Diagne;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;-5,0;-1;21;Valencia Basket;Visitante;2ª Vuelta;338
+24;Zach Hicks;0;1;0;1;0;0;0;0;0;0;1;0;0;0;1;0;0;-1,0;-3;1;MoraBanc Andorra;Local;1ª Vuelta;260
+24;Zach Hicks;1;2;1;2;0;0;0;1;1;0;0;0;1;0;1;0;3;8,0;3;2;Basquet Girona;Visitante;1ª Vuelta;598
+24;Zach Hicks;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-2,0;0;3;La Laguna Tenerife;Visitante;1ª Vuelta;115
+24;Zach Hicks;3;5;3;5;2;3;0;3;3;0;0;0;0;0;3;1;11;2,0;9;5;FC Barcelona;Visitante;1ª Vuelta;1214
+24;Zach Hicks;0;2;0;2;0;0;0;2;2;0;0;0;0;0;2;0;0;1,0;-2;6;BAXI Manresa;Local;1ª Vuelta;637
+24;Zach Hicks;0;5;0;5;0;0;0;0;0;0;0;0;0;0;2;0;0;-12,0;-7;7;Río Breogán;Local;1ª Vuelta;661
+24;Zach Hicks;2;4;2;4;0;0;0;1;1;0;0;0;0;0;4;0;6;18,0;1;8;Hiopos Lleida;Visitante;1ª Vuelta;787
+24;Zach Hicks;0;1;0;1;0;0;0;2;2;0;0;0;0;0;1;0;0;-4,0;0;9;Recoletas Salud San Pablo Burgos;Visitante;1ª Vuelta;477
+24;Zach Hicks;0;1;0;1;0;0;0;1;1;0;0;0;0;0;1;0;0;-2,0;-1;10;Joventut Badalona;Local;1ª Vuelta;284
+24;Zach Hicks;0;1;0;1;0;0;0;0;0;0;1;0;0;0;3;0;0;-11,0;-5;11;Valencia Basket;Local;1ª Vuelta;309
+24;Zach Hicks;0;1;0;0;0;0;1;1;2;0;0;0;0;0;1;0;0;1,0;0;12;Covirán Granada;Visitante;1ª Vuelta;216
+24;Zach Hicks;2;5;2;5;1;2;2;2;4;0;0;0;0;0;3;1;7;-4,0;5;13;Real Madrid;Local;1ª Vuelta;741
+24;Zach Hicks;0;2;0;1;0;0;2;0;2;0;2;1;0;0;2;0;0;-9,0;-3;14;Dreamland Gran Canaria;Visitante;1ª Vuelta;622
+24;Zach Hicks;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;-2,0;-1;15;Surne Bilbao Basket;Visitante;1ª Vuelta;347
+30;Kelan Martin;1;6;1;4;0;0;0;3;3;0;1;2;0;0;2;0;3;7,0;0;16;Basket Zaragoza;Local;1ª Vuelta;898
+30;Kelan Martin;2;2;1;1;0;0;0;0;0;0;3;0;0;0;2;0;5;-2,0;0;17;Unicaja Málaga;Visitante;1ª Vuelta;725
+30;Kelan Martin;2;2;1;1;0;0;0;0;0;0;3;0;0;0;2;0;5;-2,0;0;18;FC Barcelona;Local;2ª Vuelta;725
+30;Kelan Martin;0;1;0;1;0;0;0;0;0;0;0;0;0;0;3;0;0;2,0;-4;19;Río Breogán;Visitante;2ª Vuelta;226
+30;Kelan Martin;3;5;1;2;3;3;1;2;3;1;0;1;0;0;1;2;10;-2,0;14;20;Recoletas Salud San Pablo Burgos;Local;2ª Vuelta;696
+30;Kelan Martin;3;6;2;3;0;0;0;1;1;0;0;1;0;1;2;0;8;-4,0;5;21;Valencia Basket;Visitante;2ª Vuelta;819
+31;Dylan Ennis;5;12;2;6;2;2;1;3;4;6;1;4;0;1;0;1;14;26,0;21;1;MoraBanc Andorra;Local;1ª Vuelta;1423
+31;Dylan Ennis;2;8;1;5;6;6;0;2;2;1;2;1;0;0;0;3;11;-10,0;10;2;Basquet Girona;Visitante;1ª Vuelta;1202
+31;Dylan Ennis;0;0;0;0;0;0;0;1;1;3;0;0;0;0;2;1;0;2,0;3;3;La Laguna Tenerife;Visitante;1ª Vuelta;873
+31;Dylan Ennis;3;8;0;2;1;2;1;5;6;1;3;0;0;0;1;4;7;15,0;8;4;Baskonia;Local;1ª Vuelta;1652
+31;Dylan Ennis;1;5;0;3;2;2;1;4;5;9;4;0;0;1;3;2;4;1,0;9;5;FC Barcelona;Visitante;1ª Vuelta;1632
+31;Dylan Ennis;1;3;0;0;0;0;1;0;1;1;4;1;0;0;3;1;2;-3,0;-3;6;BAXI Manresa;Local;1ª Vuelta;877
+31;Dylan Ennis;9;17;3;7;1;2;2;3;5;5;2;2;0;0;2;3;22;-4,0;24;7;Río Breogán;Local;1ª Vuelta;1734
+31;Dylan Ennis;10;18;8;12;2;2;0;4;4;0;1;0;0;4;1;3;30;17,0;27;8;Hiopos Lleida;Visitante;1ª Vuelta;1280
+31;Dylan Ennis;7;16;3;8;0;0;0;3;3;4;2;1;0;1;4;2;17;7,0;12;9;Recoletas Salud San Pablo Burgos;Visitante;1ª Vuelta;1604
+31;Dylan Ennis;6;17;1;6;9;10;0;3;3;6;1;1;0;1;2;8;22;2,0;25;10;Joventut Badalona;Local;1ª Vuelta;1699
+31;Dylan Ennis;6;13;1;6;5;7;1;4;5;4;0;1;0;1;3;3;18;4,0;19;11;Valencia Basket;Local;1ª Vuelta;1578
+31;Dylan Ennis;1;8;0;3;1;2;0;3;3;5;2;2;0;0;3;2;3;1,0;2;12;Covirán Granada;Visitante;1ª Vuelta;1335
+31;Dylan Ennis;2;7;1;3;2;4;0;1;1;1;2;0;0;1;2;3;7;-3,0;1;13;Real Madrid;Local;1ª Vuelta;1439
+31;Dylan Ennis;4;11;3;6;3;7;5;5;10;4;2;3;0;1;2;4;14;-4,0;20;14;Dreamland Gran Canaria;Visitante;1ª Vuelta;1639
+31;Dylan Ennis;2;11;1;5;0;0;2;1;3;3;0;1;0;1;1;0;5;-5,0;2;15;Surne Bilbao Basket;Visitante;1ª Vuelta;1626
+31;Dylan Ennis;2;10;0;5;2;4;1;3;4;1;2;3;0;2;1;4;6;-2,0;5;16;Basket Zaragoza;Local;1ª Vuelta;2105
+31;Dylan Ennis;6;13;1;5;0;0;1;5;6;2;5;0;1;0;1;2;13;-4,0;11;17;Unicaja Málaga;Visitante;1ª Vuelta;1983
+31;Dylan Ennis;6;13;1;5;0;0;1;5;6;2;5;0;1;0;1;2;13;-4,0;11;18;FC Barcelona;Local;2ª Vuelta;1983
+31;Dylan Ennis;4;7;2;4;2;2;0;1;1;5;2;1;0;0;2;2;12;6,0;14;19;Río Breogán;Visitante;2ª Vuelta;1408
+31;Dylan Ennis;7;11;3;5;2;2;0;0;0;7;3;0;0;0;2;3;19;17,0;20;20;Recoletas Salud San Pablo Burgos;Local;2ª Vuelta;1661
+31;Dylan Ennis;6;15;2;8;1;1;0;2;2;2;1;1;0;0;2;2;15;-28,0;10;21;Valencia Basket;Visitante;2ª Vuelta;1444
+99;Toni Nakic;2;5;2;4;6;6;2;1;3;3;0;0;0;0;2;4;12;25,0;17;1;MoraBanc Andorra;Local;1ª Vuelta;1168
+99;Toni Nakic;3;7;1;3;3;3;0;0;0;1;0;0;0;0;2;1;10;1,0;6;2;Basquet Girona;Visitante;1ª Vuelta;1208
+99;Toni Nakic;2;3;1;2;0;0;2;0;2;0;0;0;0;0;0;1;5;-9,0;7;3;La Laguna Tenerife;Visitante;1ª Vuelta;1319
+99;Toni Nakic;3;6;2;5;5;6;1;3;4;1;0;1;0;0;3;2;13;2,0;14;4;Baskonia;Local;1ª Vuelta;1428
+99;Toni Nakic;2;4;2;4;0;0;1;0;1;0;0;3;0;0;2;0;6;3,0;6;5;FC Barcelona;Visitante;1ª Vuelta;884
+99;Toni Nakic;3;8;0;4;0;0;1;0;1;1;1;1;1;0;2;0;6;8,0;2;6;BAXI Manresa;Local;1ª Vuelta;1212
+99;Toni Nakic;3;5;3;5;0;0;0;2;2;2;1;1;1;1;1;1;9;-4,0;12;7;Río Breogán;Local;1ª Vuelta;1519
+99;Toni Nakic;3;6;1;4;3;4;2;1;3;3;1;0;0;0;2;2;10;18,0;11;8;Hiopos Lleida;Visitante;1ª Vuelta;1613
+99;Toni Nakic;3;4;3;4;2;2;1;0;1;3;2;0;0;0;3;3;11;17,0;12;9;Recoletas Salud San Pablo Burgos;Visitante;1ª Vuelta;1629
+99;Toni Nakic;1;4;1;3;2;2;1;5;6;2;0;1;0;1;1;3;5;9,0;13;10;Joventut Badalona;Local;1ª Vuelta;1807
+99;Toni Nakic;2;4;2;4;2;2;1;2;3;0;0;0;1;0;0;0;8;-16,0;10;12;Covirán Granada;Visitante;1ª Vuelta;964
+99;Toni Nakic;0;4;0;3;0;0;0;2;2;0;0;0;0;0;3;0;0;-2,0;-5;13;Real Madrid;Local;1ª Vuelta;602
+99;Toni Nakic;2;6;1;5;0;0;1;1;2;0;1;0;0;0;2;0;5;-2,0;0;14;Dreamland Gran Canaria;Visitante;1ª Vuelta;993
+99;Toni Nakic;0;2;0;2;0;0;0;0;0;1;1;1;0;0;2;1;0;-4,0;-2;15;Surne Bilbao Basket;Visitante;1ª Vuelta;1093
+99;Toni Nakic;3;6;3;5;2;2;1;2;3;0;0;0;0;0;2;3;11;-4,0;12;16;Basket Zaragoza;Local;1ª Vuelta;1044
+99;Toni Nakic;3;6;3;6;1;1;0;1;1;0;0;1;0;0;1;2;10;-2,0;10;17;Unicaja Málaga;Visitante;1ª Vuelta;1930
+99;Toni Nakic;3;6;3;6;1;1;0;1;1;0;0;1;0;0;1;2;10;-2,0;10;18;FC Barcelona;Local;2ª Vuelta;1930
+99;Toni Nakic;2;6;1;5;0;0;1;2;3;2;0;3;1;0;2;4;5;11,0;12;19;Río Breogán;Visitante;2ª Vuelta;1570
+99;Toni Nakic;2;2;1;1;0;0;0;2;2;0;1;2;0;0;0;1;5;6,0;9;20;Recoletas Salud San Pablo Burgos;Local;2ª Vuelta;771
+99;Toni Nakic;0;5;0;2;0;0;1;1;2;2;0;0;0;1;1;0;0;-28,0;-2;21;Valencia Basket;Visitante;2ª Vuelta;1139
